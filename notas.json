@@ -1,4 +1,5 @@
-[
+{
+   "notas":[
    {
       "alumno":"Pedro",
       "nota":7.09,
@@ -45,4 +46,4 @@
       "ranking":1
    }
 ]
-
+}
